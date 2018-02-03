@@ -31,7 +31,7 @@ public class BoxLifter(){
  // maybe code (function) for the switch delivery
  
  /*	public void autonomous(){
-		driveBase.setSafetyEnabled(false);
+		driveBase.setSafetyEnabled(false);*/
   
  //	driverStick = new Joystick(0);
  
